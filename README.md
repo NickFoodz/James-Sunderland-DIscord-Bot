@@ -11,5 +11,7 @@ Replace the TOKEN string at the beginning of the script with your own token. Sim
 For help setting up a discord bot (needed to get a token and OAuth for your servers), refer to the Discord Developer Portal
 
 # Note
-You can change the extension from .py to .pyw and run
+You can change the extension from .py to .pyw and run to enable daemon in background, not requiring a window to be open. Must be closed
+via task manager
+
 
